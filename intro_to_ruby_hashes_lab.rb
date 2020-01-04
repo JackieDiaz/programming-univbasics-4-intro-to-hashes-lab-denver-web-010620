@@ -29,10 +29,6 @@ end
 
 def update_counting_hash(hash, key)
   
-  i = 0
-  while i < hash.length 
-    if hash[key] += 1 
-      else hash[] == 1 
   end 
   i += 1 
   # given a hash an a key as parameters, return an updated hash
